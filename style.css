@@ -1,0 +1,63 @@
+.nav{
+    background-color:#FDEDEC;
+    opacity: 0.7;
+    position: relative;
+
+}
+
+.img{
+    margin-right: 300px !important; 
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.nav-item{
+   
+
+}
+.nav-link{
+    color: black;
+}
+.nav-link:hover{
+    color: red;
+}
+.image{
+    width: 100%;
+}
+.Footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: #D3BC2E;
+    height: 120px;
+
+}
+.h1{
+    margin-top: 10px;
+    font-size: 20px !important;
+}
+.glyphicon{
+    font-size: 20px;
+    margin-left: 30px;
+}
+.info{
+    background-color:#D3BC2E;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.glyphicon-map-marker{
+    margin-left: 50px;
+}
+.carousel-caption{
+    margin-right: 550px !important;
+    color:red !important;
+    margin-bottom: 180px !important;
+
+}
+.home{
+    margin-right: 80px;
+}
+
